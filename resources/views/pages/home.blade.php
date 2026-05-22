@@ -52,7 +52,7 @@
                       {!! $post->description !!}
                     </span>
                       	{{--
-                    <div class="post-author" style="display: none;">
+                    <div class="post-author">
                       <span>by</span>
                       <a href="javascript:;">
                         {{ entry.author }}
